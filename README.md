@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on projects that support penetration testing
-- 📫 How to reach me jose.raeiro@next-it.pt or +351936398163
+- 📫 How to reach me jose.raeiro@securnet.pt or +351936398163
 
 <!---
 joseraeiro/joseraeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
