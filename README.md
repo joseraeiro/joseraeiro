@@ -29,8 +29,8 @@
 📫 You can reach me at:
 - ✉️ **jose.raeiro@securnet.pt**
 - 📱 **+351 936 398 163**
-- 🌐 [LinkedIn (optional)](https://www.linkedin.com/in/joseraeiro) (add if you have one)
-
+- 🌐 [LinkedIn (optional)](https://www.linkedin.com/in/joseraeiro)
+  
 ---
 
 🚀 *Always learning. Always hacking. Always defending.*
